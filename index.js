@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["CodeService","By Hertool<3"];
 
 
 let currentIndex = 0;
