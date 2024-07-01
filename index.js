@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["CodeService","By Hertool<3"];
+const statusMessages = ["GOTHAM BOT","By Hertool<3"];
 
 
 let currentIndex = 0;
